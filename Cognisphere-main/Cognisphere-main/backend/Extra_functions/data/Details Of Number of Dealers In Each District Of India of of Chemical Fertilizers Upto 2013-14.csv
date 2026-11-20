@@ -1,0 +1,638 @@
+Sl No	State	District	No of Wholesalers	No of Retailers
+1	Andaman Nicobar	South Andaman	2	2
+2	Andhra Pradesh	Adilabad	97	646
+2	Andhra Pradesh	Anantapur	32	552
+2	Andhra Pradesh	Chittor	33	446
+2	Andhra Pradesh	East Godavari	218	1136
+2	Andhra Pradesh	Guntur	152	1181
+2	Andhra Pradesh	Hyderabad	7	7
+2	Andhra Pradesh	KarimNagar	88	762
+2	Andhra Pradesh	Khammam	35	814
+2	Andhra Pradesh	Krishna	75	919
+2	Andhra Pradesh	Kurnool	100	793
+2	Andhra Pradesh	MahbubaNagar	90	603
+2	Andhra Pradesh	Medak	58	665
+2	Andhra Pradesh	Nalgonda	84	638
+2	Andhra Pradesh	Nizamabad	61	517
+2	Andhra Pradesh	Prakasam	91	800
+2	Andhra Pradesh	RangaReddy	31	356
+2	Andhra Pradesh	Srikakulam	24	372
+2	Andhra Pradesh	SripottiSrimallu Nellor	42	455
+2	Andhra Pradesh	Vishakapatnam	26	298
+2	Andhra Pradesh	ViziaNagaram	32	281
+2	Andhra Pradesh	Warangal	174	757
+2	Andhra Pradesh	West Godavari	137	1081
+2	Andhra Pradesh	Y.S.R	26	331
+3	Arunachal Pradesh	Anjaw	0	0
+3	Arunachal Pradesh	Changlang	1	1
+3	Arunachal Pradesh	Dibanga Valley	0	0
+3	Arunachal Pradesh	East Kameng	0	0
+3	Arunachal Pradesh	East Siang	0	0
+3	Arunachal Pradesh	Kurung Kumey	0	0
+3	Arunachal Pradesh	Lohit	0	0
+3	Arunachal Pradesh	Lower Dibang Valley	1	1
+3	Arunachal Pradesh	Lower Sibansiri	0	0
+3	Arunachal Pradesh	Papum Pare	1	1
+3	Arunachal Pradesh	Tawang	1	1
+3	Arunachal Pradesh	Tirap	0	0
+3	Arunachal Pradesh	Upper Siang	0	0
+3	Arunachal Pradesh	Upper Sibansiri	0	0
+3	Arunachal Pradesh	West Kameng	0	0
+3	Arunachal Pradesh	West Siang	0	0
+4	Assam	Baksa	0	9
+4	Assam	Barpeta	9	145
+4	Assam	Bongaigaon	7	39
+4	Assam	Cachar	20	57
+4	Assam	Chirang	0	10
+4	Assam	Darrang	12	101
+4	Assam	Dhemaji	0	8
+4	Assam	Dhubri	12	58
+4	Assam	Dibrugarh	20	115
+4	Assam	Dima Hasao	0	1
+4	Assam	Goalpara	9	39
+4	Assam	Golaghat	20	62
+4	Assam	Hailakandi	3	14
+4	Assam	Jorhat	8	52
+4	Assam	Kamrup	37	89
+4	Assam	Kamrup Metropolitan	6	6
+4	Assam	Karbi Anglong	5	7
+4	Assam	Karimganj	7	18
+4	Assam	Kokrajhar	1	9
+4	Assam	Lakhimpur	3	39
+4	Assam	Marigaon	5	36
+4	Assam	Nagaon	19	103
+4	Assam	Nalbari	3	29
+4	Assam	Sivasagar	12	76
+4	Assam	Sonitpur	8	109
+4	Assam	Tinsukia	31	107
+4	Assam	Udalguri	0	14
+5	Bihar	Araria	20	519
+5	Bihar	Arwal	13	293
+5	Bihar	Aurangabad	22	578
+5	Bihar	Banka	14	441
+5	Bihar	Begusarai	26	620
+5	Bihar	Bhagalpur	21	562
+5	Bihar	Bhojpur	29	733
+5	Bihar	Buxar	14	553
+5	Bihar	Darbhanga	9	506
+5	Bihar	Gaya	23	1149
+5	Bihar	Gopalganj	11	554
+5	Bihar	Jamui	13	283
+5	Bihar	Jehanabad	12	299
+5	Bihar	Katihar	20	610
+5	Bihar	Khagaria	21	617
+5	Bihar	Kishanganj	8	299
+5	Bihar	Lakhisarai	14	186
+5	Bihar	Madhepura	15	628
+5	Bihar	Madhubani	24	440
+5	Bihar	Munger	16	222
+5	Bihar	Muzaffarpur	21	902
+5	Bihar	Nalanda	31	789
+5	Bihar	Nawada	12	493
+5	Bihar	Pashchim Champaran	27	1000
+5	Bihar	Patna	38	1050
+5	Bihar	Purba Champaran	46	1258
+5	Bihar	Purnia	18	908
+5	Bihar	Rohtas	52	901
+5	Bihar	Saharsa	17	467
+5	Bihar	Samastipur	30	1136
+5	Bihar	Saran	27	633
+5	Bihar	Sheikhpura	6	172
+5	Bihar	Sheohar	15	113
+5	Bihar	Sitamarhi	24	683
+5	Bihar	Siwan	21	909
+5	Bihar	Supaul	6	328
+5	Bihar	Vaishali	31	554
+6	chandigarh		0	0
+7	Chhattisgarh	Bastar	23	101
+7	Chhattisgarh	Bijapur	2	33
+7	Chhattisgarh	Bilaspur	42	284
+7	Chhattisgarh	Dakshin Bastar 	5	47
+7	Chhattisgarh	Dhamtari	40	240
+7	Chhattisgarh	Durg	82	445
+7	Chhattisgarh	Janjgir-Champa	37	218
+7	Chhattisgarh	Jashpur	9	45
+7	Chhattisgarh	Kabeerdham	15	135
+7	Chhattisgarh	Korba	6	57
+7	Chhattisgarh	Koriya	12	77
+7	Chhattisgarh	Mahasamund	24	157
+7	Chhattisgarh	Narayanpur	1	8
+7	Chhattisgarh	Raigarh	24	202
+7	Chhattisgarh	Raipur	88	494
+7	Chhattisgarh	Rajnandgaon	28	210
+7	Chhattisgarh	Surguja	43	179
+7	Chhattisgarh	Uttar Bastar Kanker	28	133
+8	Dadra & Nagar Haveli	Dadra & Nagar Haveli	0	1
+9	Daman & Diu	Daman	0	1
+9	Daman & Diu	Diu	0	0
+10	Goa	North Goa	9	53
+10	Goa	South Goa	9	43
+11	Gujarat	Ahmadabad	65	418
+11	Gujarat	Amreli	41	358
+11	Gujarat	Anand	91	504
+11	Gujarat	Banas Kantha	74	867
+11	Gujarat	Bharuch	48	229
+11	Gujarat	Bhavnagar	43	586
+11	Gujarat	Dohad	27	195
+11	Gujarat	Gandhinagar	42	272
+11	Gujarat	Jamnagar	50	423
+11	Gujarat	Junagadh	56	593
+11	Gujarat	Kachchh	44	328
+11	Gujarat	Kheda	47	443
+11	Gujarat	Mahesana	42	569
+11	Gujarat	Narmada	22	93
+11	Gujarat	Navsari	45	215
+11	Gujarat	Panch Mahals	44	433
+11	Gujarat	Patan	34	326
+11	Gujarat	Porbandar	30	82
+11	Gujarat	Rajkot	85	851
+11	Gujarat	Sabar Kantha	67	858
+11	Gujarat	Surat	41	273
+11	Gujarat	Surendranagar	39	441
+11	Gujarat	Tapi	20	147
+11	Gujarat	The Dangs	9	10
+11	Gujarat	Vadodara	63	544
+11	Gujarat	Valsad	24	211
+12	Haryana	Ambala	48	274
+12	Haryana	Bhiwani	47	324
+12	Haryana	Faridabad	7	68
+12	Haryana	Fatehabad	69	288
+12	Haryana	Gurgaon	23	96
+12	Haryana	Hisar	69	324
+12	Haryana	Jhajjar	19	132
+12	Haryana	Jind	83	301
+12	Haryana	Kaithal	57	255
+12	Haryana	Karnal	68	533
+12	Haryana	Kurukshetra	61	394
+12	Haryana	Mahendragarh	34	157
+12	Haryana	Mewat	27	92
+12	Haryana	Palwal	31	197
+12	Haryana	Panchkula	4	60
+12	Haryana	Panipat	37	254
+12	Haryana	Rewari	29	193
+12	Haryana	Rohtak	18	229
+12	Haryana	Sirsa	76	368
+12	Haryana	Sonipat	36	305
+12	Haryana	Yamunanagar	41	344
+13	Himachal Pradesh	Bilaspur	8	116
+13	Himachal Pradesh	Chamba	6	133
+13	Himachal Pradesh	Hamirpur	5	262
+13	Himachal Pradesh	Kangra	10	633
+13	Himachal Pradesh	Kinnaur	1	18
+13	Himachal Pradesh	Kullu	6	215
+13	Himachal Pradesh	Lahul & Spiti	1	38
+13	Himachal Pradesh	Mandi	10	392
+13	Himachal Pradesh	Shimla	30	301
+13	Himachal Pradesh	Sirmaur	10	139
+13	Himachal Pradesh	Solan	6	144
+13	Himachal Pradesh	Una	5	235
+14	Jammu & Kashmir	Anantnag	26	78
+14	Jammu & Kashmir	Badgam	16	25
+14	Jammu & Kashmir	Bandipore	18	15
+14	Jammu & Kashmir	Baramula	24	52
+14	Jammu & Kashmir	Doda	4	16
+14	Jammu & Kashmir	Ganderbal	13	7
+14	Jammu & Kashmir	Jammu	22	180
+14	Jammu & Kashmir	Kargil	6	0
+14	Jammu & Kashmir	Kathua	11	94
+14	Jammu & Kashmir	Kishtwar	2	1
+14	Jammu & Kashmir	Kulgam	27	62
+14	Jammu & Kashmir	Kupwara	17	22
+14	Jammu & Kashmir	Pulwama	19	39
+14	Jammu & Kashmir	Punch	5	26
+14	Jammu & Kashmir	Rajauri	5	65
+14	Jammu & Kashmir	Ramban	9	14
+14	Jammu & Kashmir	Reasi	5	15
+14	Jammu & Kashmir	Samba	11	21
+14	Jammu & Kashmir	Shupiyan	23	42
+14	Jammu & Kashmir	Srinagar	10	6
+14	Jammu & Kashmir	Udhampur	6	48
+15	Jharkhand	Bokaro	2	30
+15	Jharkhand	Chatra	3	91
+15	Jharkhand	Deoghar	17	172
+15	Jharkhand	Dhanbad	0	24
+15	Jharkhand	Dumka	4	103
+15	Jharkhand	Garhwa	10	153
+15	Jharkhand	Giridiha	10	117
+15	Jharkhand	Godda	4	160
+15	Jharkhand	Gumla	5	78
+15	Jharkhand	Hazaribagh	8	172
+15	Jharkhand	Jamatra	2	33
+15	Jharkhand	Khunti	2	44
+15	Jharkhand	Kudarma	11	67
+15	Jharkhand	Latehar	2	124
+15	Jharkhand	Lohardaga	12	89
+15	Jharkhand	Pakur	1	54
+15	Jharkhand	Palmu	12	351
+15	Jharkhand	Pashimi Singhbhum	4	60
+15	Jharkhand	Purbi Singhbhum	4	65
+15	Jharkhand	Ramgarh	3	90
+15	Jharkhand	Ranchi	18	361
+15	Jharkhand	Sahibagh	6	97
+15	Jharkhand	Srikela-Kharswan	2	31
+15	Jharkhand	Simdega	4	17
+16	Karnataka	Bagalkot	46	533
+16	Karnataka	Bangalore	80	216
+16	Karnataka	Bangalore Rural	18	119
+16	Karnataka	Belgaum	194	1221
+16	Karnataka	Bellary	58	532
+16	Karnataka	Bidar	23	274
+16	Karnataka	Bijapur	23	463
+16	Karnataka	Chamarajanagar	25	202
+16	Karnataka	Chikkaballapura	21	247
+16	Karnataka	Chikmaglur	33	334
+16	Karnataka	Chitradurga	19	321
+16	Karnataka	Dakshina Kannada	26	190
+16	Karnataka	Davanagere	69	768
+16	Karnataka	Dharwada	53	224
+16	Karnataka	Gadag	32	325
+16	Karnataka	Gulbarga	31	344
+16	Karnataka	Hasan	44	590
+16	Karnataka	Haveri	59	496
+16	Karnataka	Kodagu	23	137
+16	Karnataka	Kolar	50	200
+16	Karnataka	Koppal	75	345
+16	Karnataka	Mandya	42	410
+16	Karnataka	Mysore	59	625
+16	Karnataka	Raichur	270	526
+16	Karnataka	Ramanagara	12	188
+16	Karnataka	Shimoga	35	399
+16	Karnataka	Tumkur	41	599
+16	Karnataka	Udupi	20	76
+16	Karnataka	Uttar Kannada	21	164
+16	Karnataka	Yadgir	42	346
+17	Kerala	Alappuzha	18	173
+17	Kerala	Ernakulam	36	240
+17	Kerala	Idduki	20	115
+17	Kerala	Kannur	17	208
+17	Kerala	Kasaragod	12	109
+17	Kerala	Kollam	12	238
+17	Kerala	Kottayam	31	255
+17	Kerala	Kozhikode	31	167
+17	Kerala	Malappuram	22	283
+17	Kerala	Palakkad	20	261
+17	Kerala	Pathanamthitta	15	191
+17	Kerala	Thiruvananthapuram	14	235
+17	Kerala	Thrissur	21	239
+17	Kerala	Wayanad	14	121
+18	Lakshadweep	Lakshadweep	0	2
+19	Madhya Pradesh	Alirajpur	20	125
+19	Madhya Pradesh	Anuppur	5	35
+19	Madhya Pradesh	Ashknagar	32	142
+19	Madhya Pradesh	Balghat	17	173
+19	Madhya Pradesh	Barwani	38	136
+19	Madhya Pradesh	Betul	34	187
+19	Madhya Pradesh	Bhind	39	352
+19	Madhya Pradesh	Bhopal	39	99
+19	Madhya Pradesh	Burhanpur	26	139
+19	Madhya Pradesh	Chhatarpur	26	224
+19	Madhya Pradesh	Chhindwara	53	376
+19	Madhya Pradesh	Damoh	19	148
+19	Madhya Pradesh	Datia	24	158
+19	Madhya Pradesh	Dewas	90	259
+19	Madhya Pradesh	Dhar	136	336
+19	Madhya Pradesh	Dhindori	9	36
+19	Madhya Pradesh	East Nimar	71	288
+19	Madhya Pradesh	Guna	37	182
+19	Madhya Pradesh	Gwalior	45	187
+19	Madhya Pradesh	Harda	43	155
+19	Madhya Pradesh	Hoshangabad	61	245
+19	Madhya Pradesh	Indore	56	273
+19	Madhya Pradesh	Jabalpur	51	177
+19	Madhya Pradesh	Jhabua	33	149
+19	Madhya Pradesh	Katni	19	176
+19	Madhya Pradesh	Mandla	13	111
+19	Madhya Pradesh	Mandsaur	114	286
+19	Madhya Pradesh	Morena	40	260
+19	Madhya Pradesh	Narasimhapur	67	294
+19	Madhya Pradesh	Nemuch	61	148
+19	Madhya Pradesh	Panna	14	174
+19	Madhya Pradesh	Raisen	37	172
+19	Madhya Pradesh	Rajgarh	64	225
+19	Madhya Pradesh	Ratlam	76	240
+19	Madhya Pradesh	Rewari	32	326
+19	Madhya Pradesh	Sagar	56	280
+19	Madhya Pradesh	Satna	34	325
+19	Madhya Pradesh	Shore	73	232
+19	Madhya Pradesh	Seoni	24	163
+19	Madhya Pradesh	Shahdol	24	59
+19	Madhya Pradesh	Shajapur	90	265
+19	Madhya Pradesh	Sheopur	15	88
+19	Madhya Pradesh	Shivpuri	37	221
+19	Madhya Pradesh	Sidhi	14	77
+19	Madhya Pradesh	Singrauli	6	69
+19	Madhya Pradesh	Tikamgarh	20	168
+19	Madhya Pradesh	Ujjain	128	359
+19	Madhya Pradesh	Umaria	7	64
+19	Madhya Pradesh	Vidisha	36	221
+19	Madhya Pradesh	WestNimar	45	332
+20	Maharastra	AhamdNagar	274	1489
+20	Maharastra	Akola	109	525
+20	Maharastra	Amravati	124	1050
+20	Maharastra	Aurangabad	258	1440
+20	Maharastra	Bhandara	61	692
+20	Maharastra	Bid	213	1388
+20	Maharastra	Buldana	246	1118
+20	Maharastra	Chandrapur	100	872
+20	Maharastra	Dhule	115	580
+20	Maharastra	Gadchiroli	68	895
+20	Maharastra	Gondiya	75	779
+20	Maharastra	Hingoli	93	557
+20	Maharastra	Jalgaon	256	2082
+20	Maharastra	Jalna	175	1099
+20	Maharastra	Kolhapur	360	1472
+20	Maharastra	Latur	145	766
+20	Maharastra	Mumbai	3	5
+20	Maharastra	Nagpur	105	1000
+20	Maharastra	Nanded	214	1361
+20	Maharastra	Nandurbar	63	349
+20	Maharastra	Nashik	251	1705
+20	Maharastra	Osmanabad	118	738
+20	Maharastra	Parbhani	84	850
+20	Maharastra	Pune	198	1260
+20	Maharastra	Raigarh	42	194
+20	Maharastra	Ratnagiri	36	441
+20	Maharastra	Sangli	145	1223
+20	Maharastra	Satara	121	1098
+20	Maharastra	Sindhudurg	31	280
+20	Maharastra	Solapur	289	1687
+20	Maharastra	Thane	65	368
+20	Maharastra	Wardha	102	701
+20	Maharastra	Washim	71	507
+20	Maharastra	Yavatmal	191	1186
+21	Manipur	Bishnupur	8	6
+21	Manipur	Chandel	0	0
+21	Manipur	Churachandpur	0	0
+21	Manipur	Imphal East	20	15
+21	Manipur	ImphalWest	8	12
+21	Manipur	Senapati	3	2
+21	Manipur	Tamenglong	0	0
+21	Manipur	Thoubal	14	12
+21	Manipur	Ukhrul	0	0
+22	Meghalaya	East Garo Hills	2	1
+22	Meghalaya	East Khasi Hills	4	58
+22	Meghalaya	Jaintia Hills	1	1
+22	Meghalaya	Ribhoi	0	4
+22	Meghalaya	South Garo Hills	0	0
+22	Meghalaya	West Garo Hills	2	3
+22	Meghalaya	West Khasi Hills	0	15
+23	Mizoram	Aizawl	6	3
+23	Mizoram	Champhai	10	1
+23	Mizoram	Kolasib	0	0
+23	Mizoram	Lawngtlai	1	1
+23	Mizoram	Lunglei	1	0
+23	Mizoram	Mamit	0	0
+23	Mizoram	Saiha	0	0
+23	Mizoram	Serchhip	0	0
+24	Nagaland	Dimapur	2	4
+24	Nagaland	Kiphire	0	0
+24	Nagaland	Kohima	0	0
+24	Nagaland	Longleng	0	0
+24	Nagaland	Mokokchung	0	0
+24	Nagaland	Mon	0	0
+24	Nagaland	Perer	0	0
+24	Nagaland	Phek	0	0
+24	Nagaland	Tuensang	0	0
+24	Nagaland	Wokha	0	0
+24	Nagaland	Zunheboto	0	0
+25	NCT Of Delhi	Central Delhi	64	56
+25	NCT Of Delhi	East Delhi	3	9
+25	NCT Of Delhi	New Delhi	1	1
+25	NCT Of Delhi	NorthDelhi	1	1
+25	NCT Of Delhi	North-East Delhi	1	1
+25	NCT Of Delhi	North-West Delhi	14	22
+25	NCT Of Delhi	Sahadara	0	0
+25	NCT Of Delhi	South Delhi	1	3
+25	NCT Of Delhi	South-West Delhi	1	11
+25	NCT Of Delhi	West Delhi	2	2
+26	Odisha	Anugul	32	222
+26	Odisha	Balangir	28	776
+26	Odisha	Baleswar	32	995
+26	Odisha	Baragarh	60	415
+26	Odisha	Baudh	8	214
+26	Odisha	Bhadrak	42	638
+26	Odisha	Cuttack	44	411
+26	Odisha	Debagarh	7	95
+26	Odisha	Dhenkanal	26	256
+26	Odisha	Gajapati	20	75
+26	Odisha	Ganjam	83	583
+26	Odisha	Jagatsinghapur	25	173
+26	Odisha	Jajpur	38	373
+26	Odisha	Jharasuguda	9	68
+26	Odisha	Kalahandi	48	799
+26	Odisha	Kandhamal	4	70
+26	Odisha	Kendrapara	23	302
+26	Odisha	Kendujhar	22	455
+26	Odisha	Khorda	30	237
+26	Odisha	Koraput	36	267
+26	Odisha	Malkangiri	14	216
+26	Odisha	Mayurbhanj	39	754
+26	Odisha	Nabarangapur	55	546
+26	Odisha	Nayagarh	17	137
+26	Odisha	Nuapada	17	333
+26	Odisha	Puri	43	256
+26	Odisha	Rayagada	20	196
+26	Odisha	Sambalapur	26	301
+26	Odisha	Subarnapur	17	251
+26	Odisha	Sundargarh	18	313
+27	Poducherry	Karaikal	3	6
+27	Poducherry	Mahe	0	0
+27	Poducherry	Poducherry	11	64
+27	Poducherry	Yanam	0	4
+28	Punjab	Amritsar	51	631
+28	Punjab	Barnal	27	293
+28	Punjab	Bathinda	65	583
+28	Punjab	Faridkot	50	232
+28	Punjab	Ftegarh Saheb	20	194
+28	Punjab	Firozpur	95	873
+28	Punjab	Gurdaspur	39	780
+28	Punjab	Hoshiarpur	37	516
+28	Punjab	Jalandhar	44	461
+28	Punjab	Kapurthala	38	304
+28	Punjab	Ludhiana	80	655
+28	Punjab	Mansa	32	352
+28	Punjab	Moga	33	309
+28	Punjab	Muktsar	68	404
+28	Punjab	Patiala	77	551
+28	Punjab	Rupnagar	22	183
+28	Punjab	Sahibazada Ajit Singh Nagar	21	130
+28	Punjab	Sangrur	59	678
+28	Punjab	Shahid Bhagat Singh Nagar	28	205
+28	Punjab	Tarn Taran	54	550
+29	Rajastan	Ajmer	34	272
+29	Rajastan	Alwar	47	844
+29	Rajastan	Banswara	28	322
+29	Rajastan	Baran	34	300
+29	Rajastan	Barmer	17	126
+29	Rajastan	Bharatpur	50	394
+29	Rajastan	Bhilwara	42	357
+29	Rajastan	Bikaner	43	174
+29	Rajastan	Bundi	44	339
+29	Rajastan	Chittaurgarh	40	391
+29	Rajastan	Churu	12	60
+29	Rajastan	Dausa	32	311
+29	Rajastan	Dhaulpur	31	219
+29	Rajastan	Dungarpur	18	137
+29	Rajastan	GangaNagar	121	603
+29	Rajastan	Hanumangarh	109	451
+29	Rajastan	Jaipur	77	749
+29	Rajastan	Jaisalmer	15	97
+29	Rajastan	Jalor	23	424
+29	Rajastan	Jhalwar	47	397
+29	Rajastan	Jhunjhunun	32	255
+29	Rajastan	Jodhapur	31	394
+29	Rajastan	Karauli	29	318
+29	Rajastan	Kota	44	341
+29	Rajastan	Nagaur	34	334
+29	Rajastan	Pali	29	252
+29	Rajastan	Pratapgarh	29	162
+29	Rajastan	Rajsamand	14	138
+29	Rajastan	Sawai Madhopur	34	330
+29	Rajastan	Sikar	31	317
+29	Rajastan	Sirohi	20	170
+29	Rajastan	Tonk	27	422
+29	Rajastan	Udaipur	34	288
+30	Sikkim	East District	0	0
+30	Sikkim	North District	0	0
+30	Sikkim	South District	0	0
+30	Sikkim	West District	0	0
+31	Tamil Nadu	Ariyalur	19	157
+31	Tamil Nadu	Chennai	0	1
+31	Tamil Nadu	Coimbator	66	385
+31	Tamil Nadu	Cuddalore	42	470
+31	Tamil Nadu	Dharmapuri	31	403
+31	Tamil Nadu	Dindigul	55	499
+31	Tamil Nadu	Erode	76	572
+31	Tamil Nadu	Kancheepuram	38	364
+31	Tamil Nadu	Kanniyakumar	18	246
+31	Tamil Nadu	Karur	28	251
+31	Tamil Nadu	Krishnagiri	29	347
+31	Tamil Nadu	Madurai	89	396
+31	Tamil Nadu	Nagapattinam	25	284
+31	Tamil Nadu	Namakkal	29	507
+31	Tamil Nadu	Perambalur	24	199
+31	Tamil Nadu	Poudukottai	61	399
+31	Tamil Nadu	Ramanathapuram	20	277
+31	Tamil Nadu	Salem	105	730
+31	Tamil Nadu	Sivaganga	19	295
+31	Tamil Nadu	Thanjavarur	57	512
+31	Tamil Nadu	Theni	31	273
+31	Tamil Nadu	The Nalgiris	24	220
+31	Tamil Nadu	Thiruvallur	30	257
+31	Tamil Nadu	Thiruvarur	27	409
+31	Tamil Nadu	Thoothukkudi	32	309
+31	Tamil Nadu	Tiruchirappalli	61	423
+31	Tamil Nadu	Tirunelveli	60	527
+31	Tamil Nadu	Tiruppur	42	344
+31	Tamil Nadu	Tiruvannamalai	44	639
+31	Tamil Nadu	Vellore	56	465
+31	Tamil Nadu	Viluppuram	98	774
+31	Tamil Nadu	Virudhunagar	22	333
+32	Tripura	Dhalai	2	18
+32	Tripura	North Tripura	5	31
+32	Tripura	South Tripura	5	107
+32	Tripura	West tripura	17	192
+33	Uttarakhand	Almora	0	82
+33	Uttarakhand	Bageswar	0	17
+33	Uttarakhand	Chamoli	0	52
+33	Uttarakhand	Champawat	0	17
+33	Uttarakhand	Dehradun	3	67
+33	Uttarakhand	Garhwal	0	26
+33	Uttarakhand	Hardwar	24	122
+33	Uttarakhand	Nainital	4	82
+33	Uttarakhand	Pithoragarh	0	67
+33	Uttarakhand	Rudraprayag	0	37
+33	Uttarakhand	Tehri Garhwal	0	77
+33	Uttarakhand	Udham Singh Nagar	41	400
+33	Uttarakhand	Uttarkashi	0	44
+34	Uttar Pradesh	Agra	57	563
+34	Uttar Pradesh	Aligarh	48	723
+34	Uttar Pradesh	Allahabad	56	760
+34	Uttar Pradesh	Ambedkar Nagar	26	597
+34	Uttar Pradesh	Auraiya	39	360
+34	Uttar Pradesh	Azamgarh	43	902
+34	Uttar Pradesh	Baghpat	10	104
+34	Uttar Pradesh	Bahraich	36	810
+34	Uttar Pradesh	Ballia	35	528
+34	Uttar Pradesh	Balrampur	18	719
+34	Uttar Pradesh	Banda	10	106
+34	Uttar Pradesh	Bara Banki	53	982
+34	Uttar Pradesh	Bareilly	35	582
+34	Uttar Pradesh	Basti	31	609
+34	Uttar Pradesh	Bijnor	25	410
+34	Uttar Pradesh	Budaun	92	467
+34	Uttar Pradesh	Bulandshahar	26	594
+34	Uttar Pradesh	Chandauli	20	322
+34	Uttar Pradesh	Chitrakoot	8	60
+34	Uttar Pradesh	CSM Nagar	28	350
+34	Uttar Pradesh	Deoria	36	1303
+34	Uttar Pradesh	Etah	27	385
+34	Uttar Pradesh	Etawah	40	303
+34	Uttar Pradesh	Faizabad	32	701
+34	Uttar Pradesh	Farrukhabad	33	843
+34	Uttar Pradesh	Fatehpur	26	685
+34	Uttar Pradesh	Firozabad	46	556
+34	Uttar Pradesh	Gautam Budha Nagar	14	120
+34	Uttar Pradesh	Ghaziabad	20	194
+34	Uttar Pradesh	Ghazipur	30	579
+34	Uttar Pradesh	Gonda	31	1438
+34	Uttar Pradesh	Gorakhpur	37	1375
+34	Uttar Pradesh	Hamirpur	12	156
+34	Uttar Pradesh	Hardoi	49	1076
+34	Uttar Pradesh	Jalaun	29	222
+34	Uttar Pradesh	Jaunpur	39	885
+34	Uttar Pradesh	Jhansi	16	234
+34	Uttar Pradesh	Jyotiba Phule Nagar	38	328
+34	Uttar Pradesh	Kannauj	44	626
+34	Uttar Pradesh	Kanpur Dehat	15	387
+34	Uttar Pradesh	Kanpur Nagar	26	450
+34	Uttar Pradesh	Kanshiram Nagar	27	391
+34	Uttar Pradesh	Kaushambi	15	193
+34	Uttar Pradesh	Kheri	47	896
+34	Uttar Pradesh	KushiNagar	52	966
+34	Uttar Pradesh	Lalitpur	31	238
+34	Uttar Pradesh	Lucknow	42	511
+34	Uttar Pradesh	Mahamaya Nagar	31	291
+34	Uttar Pradesh	Mahoba	5	68
+34	Uttar Pradesh	Maharajganj	47	961
+34	Uttar Pradesh	Mainpuri	39	586
+34	Uttar Pradesh	Mathura	25	527
+34	Uttar Pradesh	Mau	24	369
+34	Uttar Pradesh	Meerut	38	266
+34	Uttar Pradesh	Mirzapur	17	240
+34	Uttar Pradesh	Moradabad	34	695
+34	Uttar Pradesh	Muzaffarnagar	31	439
+34	Uttar Pradesh	Pilibhit	40	449
+34	Uttar Pradesh	Pratapgarh	28	733
+34	Uttar Pradesh	RaeBareli	22	680
+34	Uttar Pradesh	Rampur	16	333
+34	Uttar Pradesh	Saharnpur	30	320
+34	Uttar Pradesh	Sant Kabir Nagar	24	515
+34	Uttar Pradesh	Sant Ravidas Nagar	0	0
+34	Uttar Pradesh	Shahjahanpur	51	666
+34	Uttar Pradesh	Shrawasti	10	255
+34	Uttar Pradesh	Siddharthnagar	33	936
+34	Uttar Pradesh	Sitapur	38	855
+34	Uttar Pradesh	Sonbhadra	32	209
+34	Uttar Pradesh	Sultanpur	29	622
+34	Uttar Pradesh	Unnao	25	643
+34	Uttar Pradesh	Varanasi	53	444
+35	West Bengal	Bankura	184	1182
+35	West Bengal	Barddhaman	165	1450
+35	West Bengal	Birbhum	70	887
+35	West Bengal	Dakshin Dinajpur	113	990
+35	West Bengal	Darjling	10	15
+35	West Bengal	Howrah	79	394
+35	West Bengal	Hugli	240	1421
+35	West Bengal	Jalpaiguri	170	958
+35	West Bengal	Koch Bihar	186	1202
+35	West Bengal	Kolkata	3	9
+35	West Bengal	Maldah	106	961
+35	West Bengal	Murshidabad	156	1628
+35	West Bengal	Nadia	298	2883
+35	West Bengal	North Twenty Four Pargannas	225	2326
+35	West Bengal	Paschim Medinipur	395	1788
+35	West Bengal	Purba Medinipur	147	949
+35	West Bengal	Puruliya	27	417
+35	West Bengal	South Twenty Four Pargannas	193	1663
+35	West Bengal	Uttar Dinajpur	151	957
